@@ -1,0 +1,15 @@
+public class Sample {
+    public static void main(String[] args) {
+        char c1 = 'a';
+        char c2 = 'あ';
+        char c3 = '漢';
+        System.out.println(c1);
+        System.out.println(c2);
+        System.out.println(c3);
+
+        boolean b1 = true;
+        boolean b2 = false;
+        System.out.println(b1);
+        System.out.println(b2);
+    }
+}
